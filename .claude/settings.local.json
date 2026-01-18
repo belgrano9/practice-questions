@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(npm search:*)",
+      "Bash(ls:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run parse-questions:*)",
+      "Bash(npx expo-doctor:*)",
+      "Bash(javac:*)",
+      "Bash(echo:*)",
+      "Bash(where:*)",
+      "Bash(dir \"C:\\Program Files\\Java\")",
+      "Bash(dir \"C:\\Program Files (x86)\\Java\")",
+      "Bash(npx expo run:android:*)",
+      "Bash(java -version:*)",
+      "Bash(./gradlew clean:*)",
+      "Bash(npx expo start:*)",
+      "Bash(timeout:*)",
+      "Bash(gh repo create:*)",
+      "Bash(gh auth login:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(npm i:*)",
+      "Bash(npx expo export:*)",
+      "Bash(git rm:*)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)"
+    ]
+  }
+}
